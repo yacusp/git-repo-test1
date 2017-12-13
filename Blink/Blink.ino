@@ -1,12 +1,12 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
- */
+
+  Blink one LED
+*/
 
 
 // Variables
 int blinkDelay = 1000;
-int led1Pin = 14;
+int led1Pin = 13;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
